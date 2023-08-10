@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/thrombocytopenic-secondary-or-other-thrombocytopaenia---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-or-other-thrombocytopaenia---primary.py
+inputModule4:
+  class: File
+  path: python/secondary-or-other-thrombocytopaenia-thrombocytopenia---secondary.py
+inputModule5:
+  class: File
+  path: python/secondary-or-other-thrombocytopaenia-wiskottaldrich---secondary.py
+inputModule6:
+  class: File
+  path: python/secondary-or-other-thrombocytopaenia---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
